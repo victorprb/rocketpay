@@ -1,5 +1,9 @@
 # Rocketpay
 
+App developed in [Elixir](https://elixir-lang.org/) Trail from https://nextlevelweek.com 4th edition event.
+
+---
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
